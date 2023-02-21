@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently enrolled in Del Institute of Technology. Interest in the IT field and like to learn new things, especially in software development. Able to build web application and feel kindly to work in a team, the word of 'able' mean 'love' not 'expertise'.
+I am currently enrolled in Del Institute of Technology. Interest in the IT field and like to learn new things, especially in software development. Able to build web application and feel kindly to work in a team, the word of ```.able``` mean ```.love``` not ```.expertise```.
 
 ### 🤵 About me
 - 🏦 I'm currently study at Del Institute Of Technology major in Software Engineering (D4)
@@ -21,6 +21,7 @@ I am currently enrolled in Del Institute of Technology. Interest in the IT field
 
 ### keep in touch with me 😄
 ```If you have a project that you wanna get started, think you need my help with something or just fancy saying hey <3, then get in touch.```
+
 <a href="https://www.linkedin.com/in/onainadapdap1">
   <img align="left" alt="Onai's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
