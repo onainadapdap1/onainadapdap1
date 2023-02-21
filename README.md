@@ -29,6 +29,7 @@ I am currently enrolled in Del Institute of Technology. Interest in the IT field
   <img align="left" alt="Onai's Instagram" width="30px" src="https://user-images.githubusercontent.com/70984049/131288231-66471d8b-7bed-4fd7-b2eb-519637f05d8c.png" />
 </a>
 
+
 ### 😜 Quotes:
 #### Just Be Gratefull All The Time 
 
