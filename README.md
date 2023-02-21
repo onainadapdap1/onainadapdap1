@@ -19,6 +19,7 @@ I am currently enrolled in Del Institute of Technology. Interest in the IT field
   </a>
 </div>
 
+----
 ### keep in touch with me 😄
 ```If you have a project that you wanna get started, think you need my help with something or just fancy saying hey <3, then get in touch.```
 
