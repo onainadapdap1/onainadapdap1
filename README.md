@@ -30,9 +30,11 @@ I am currently enrolled in Del Institute of Technology. Interest in the IT field
 </a>
 
 
+---
 ### 😜 Quotes:
 #### Just Be Gratefull All The Time 
 
+----
 <!--
 **onainadapdap1/onainadapdap1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
